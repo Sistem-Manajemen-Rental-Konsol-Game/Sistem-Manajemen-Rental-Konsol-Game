@@ -50,6 +50,7 @@ Jika username yang diinputkan user sama dengan username user atau admin yang sud
 User menginputkan username dan password yang sudah terdaftar dalam data program. Jika data ada, maka user akan masuk pada bagian menu user
 
 **Masuk Admin**
+
 ![Screenshot 2024-11-07 150811](https://github.com/user-attachments/assets/a07b66be-c49f-4f1e-811d-f5eec3e2dc9b)
 
 Jika hasil input adalah username dan password admin, maka user akan masuk pada menu admin sebagai admin
@@ -87,4 +88,20 @@ Jika admin menginputkan angka 5, maka akan kembali pada menu utama
 
 # <sub>Penjelasan Opsi Create</sub>
 
+![Screenshot 2024-11-07 153911](https://github.com/user-attachments/assets/25be5793-75e7-4b31-804d-6fc562c98c84)
 
+Opsi angka 1 yaitu _create_ akan menampilkan tabel produk dan admin menginputkan nama produk, harga sewa per hari, dan ketersedian produk dengan menginput 'tersedia' atau 'tidak tersedia'.
+
+![Screenshot 2024-11-07 154001](https://github.com/user-attachments/assets/73b74cac-4548-488b-8b9f-229c42b5b669)
+
+Tabel produk otomatis menambahkan hasil input admin pada baris baru. Admin juga harus menginputkan y (untuk yes) atau n (untuk no). Jika admin menginputkan 'n' maka akan kembali ke menu admin.
+
+![Screenshot 2024-11-07 154001](https://github.com/user-attachments/assets/1939a78d-16e6-4710-9f58-c13d15be51d5)
+
+Jika admin ingin menambah produk lagi, silahkan menginput 'y' agar bisa menambahkan produk.
+
+# <sub>Penjelasan Opsi Read</sub>
+
+![Screenshot 2024-11-07 154001](https://github.com/user-attachments/assets/a1b4e053-c75f-4d5a-b630-7c5c53a03814)
+
+Opsi angka 2 untuk menampilkan tabel yang berisi nomor, nama produk, harga sewa per hari
