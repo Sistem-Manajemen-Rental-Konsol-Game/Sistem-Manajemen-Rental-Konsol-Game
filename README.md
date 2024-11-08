@@ -149,4 +149,23 @@ Jika user menginputkan 'n' maka proses sewa akan dibatalkan dan akan ditanyakan 
 
 Admin menginputkan 'y' untuk menghapus produk dan tampilan tabel diperbarui. setelah proses menghapus produk akan ditanyakan kembali jika ingin menghapus produk lagi
 
+![Screenshot 2024-11-08 081410](https://github.com/user-attachments/assets/e4702aa2-704c-4ec9-a5b8-7c6d100663dd)
 
+Admin tidak bisa menginputkan nomor selain yang tertera pada tabel produk
+
+# Menu User
+
+![Screenshot 2024-11-08 121429](https://github.com/user-attachments/assets/b3f7b914-366a-4c05-8eaa-14e66169fe7d)
+
+User bisa menginputkan angka 1-5.
+Tampilan menu user:
+1. Sewa Produk
+   User bisa melakukan transaksi rental konsol game disini
+2. Cek Akun E-Money
+   User melihat akun E-Money
+3. Kembalikan Produk
+   Admin dapat memperbarui detail produk dengan memilih nomor yang ada di dalam tabel
+4. Delete
+   Admin dapat menghapus produk dengan memilih nomor yang ada di dalam tabel
+   
+**5. Log Out**
