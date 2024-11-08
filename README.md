@@ -133,4 +133,18 @@ Setelah memperbarui produk, admin menginputkat 'y' atau 'n'. Jika input 'y' maka
 
 Admin bisa menginputkan angka 4 untuk menuju fitur menghapus 1 baris pada tabel atau produk dengan menginputkan nomor produk.
 
+![Screenshot 2024-11-07 192941](https://github.com/user-attachments/assets/72ecabd4-c438-4657-b4b4-4824b569cf1c)
+
+Input nomor produk yang ingin dihapus.
+
+![Screenshot 2024-11-08 080322](https://github.com/user-attachments/assets/6c5616ae-324e-43da-a824-1f74914a4d60)
+
+Konfirmasi menghapus produk dengan input 'y' atau 'n'
+
+![Screenshot 2024-11-08 080351](https://github.com/user-attachments/assets/03d7cc12-13d0-4cfb-80d0-d9d8ad1c55c1)
+
+Jika user menginputkan 'n' maka proses sewa akan dibatalkan dan akan ditanyakan kembali apakah ingin menyewa konsol game lagi
+
+![Screenshot 2024-11-08 080938](https://github.com/user-attachments/assets/eaaea2a9-2569-4106-b967-37c1ec6d783a)
+
 
