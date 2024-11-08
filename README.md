@@ -1,12 +1,9 @@
 # PA DASPRO KELOMPOK 3
 
 # Anggota Kelompok 3
-1. Nama: Jen Agresia Misti
-   NIM: 2409116007
-2. Nama: Nurhidayah
-   NIM: 2409116002
-3. Nama: Dhita Olivia R. K
-   NIM: 2409116040
+1. Jen Agresia Misti (2409116007)
+2. Nurhidayah (2409116002)
+3. Dhita Olivia R. K (2409116040)
 Kelas: Sistem Informasi A 2024
 
 # Menu Utama
@@ -96,7 +93,7 @@ Opsi angka 1 yaitu _create_ akan menampilkan tabel produk dan admin menginputkan
 
 Tabel produk otomatis menambahkan hasil input admin pada baris baru. Admin juga harus menginputkan y (untuk yes) atau n (untuk no). Jika admin menginputkan 'n' maka akan kembali ke menu admin.
 
-![Screenshot 2024-11-07 154001](https://github.com/user-attachments/assets/1939a78d-16e6-4710-9f58-c13d15be51d5)
+![Screenshot 2024-11-07 193151](https://github.com/user-attachments/assets/55bc0af9-8202-4a34-975b-77ff29fcdd79)
 
 Jika admin ingin menambah produk lagi, silahkan menginput 'y' agar bisa menambahkan produk.
 
@@ -105,3 +102,35 @@ Jika admin ingin menambah produk lagi, silahkan menginput 'y' agar bisa menambah
 ![Screenshot 2024-11-07 154001](https://github.com/user-attachments/assets/a1b4e053-c75f-4d5a-b630-7c5c53a03814)
 
 Opsi angka 2 untuk menampilkan tabel yang berisi nomor, nama produk, harga sewa per hari
+
+# <sub>Penjelasan Opsi Update</sub>
+
+![Screenshot 2024-11-08 074134](https://github.com/user-attachments/assets/37babd92-0143-4dc7-b97b-e225b86a62ca)
+
+Admin bisa mengubah detail produk dari nama dan harga sewa produk dengan menginputkan angka 3 pada menu admin. Setelah masuk pada fitur update, admin perlu menginputkan nomor produk yang ingin dirubah.
+
+![Screenshot 2024-11-08 074154](https://github.com/user-attachments/assets/8fcda353-ba25-42dc-8418-9108a4f4b0e0)
+
+Terdapat dua opsi yang bisa dipilih admin dengan menginputkan nomor yang sesuai dengan tampilan program.
+
+![Screenshot 2024-11-08 074251](https://github.com/user-attachments/assets/bcc315e3-8a19-435b-ac9a-ab8aa485bc41)
+
+Jika admin menginputkan angka 1, admin bisa mengubah nama produk dengan menginputkanya sesuai yang ada pada program. Terdapat notifikasi kalau produk berhasil dirubah dan menampilkan tabel yang sudah diperbarui.
+
+![Screenshot 2024-11-08 074351](https://github.com/user-attachments/assets/4ba797e6-4388-484f-8fb9-506389d99e47)
+
+Input angka 2 untuk mengubah harga sewa sesuai yang diinginkan admin. Tampilan tabel otomatis diperbarui setelah admin menginputkan harga sewa yang baru.
+
+![Screenshot 2024-11-08 074315](https://github.com/user-attachments/assets/2476f3bf-1340-4b04-83b3-b83b64d6308e)
+
+![Screenshot 2024-11-08 074405](https://github.com/user-attachments/assets/164b8d36-af38-4ef0-8534-70bc75294138)
+
+Setelah memperbarui produk, admin menginputkat 'y' atau 'n'. Jika input 'y' maka akan kembali pada fitur update untuk memperbarui dan input 'n' untuk kembali pada menu admin.
+
+# <sub>Penjelasan Opsi Delete</sub>
+
+![Screenshot 2024-11-08 080123](https://github.com/user-attachments/assets/61cc439a-ff64-4c06-9e40-61f50fb21dee)
+
+Admin bisa menginputkan angka 4 untuk menuju fitur menghapus 1 baris pada tabel atau produk dengan menginputkan nomor produk.
+
+
