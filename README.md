@@ -99,7 +99,7 @@ Jika admin ingin menambah produk lagi, silahkan menginput 'y' agar bisa menambah
 
 # <sub>Penjelasan Opsi Read</sub>
 
-![Screenshot 2024-11-07 154001](https://github.com/user-attachments/assets/a1b4e053-c75f-4d5a-b630-7c5c53a03814)
+![Screenshot 2024-11-07 193910](https://github.com/user-attachments/assets/192d48f6-51b7-496c-b7d9-9f7c197cb782)
 
 Opsi angka 2 untuk menampilkan tabel yang berisi nomor, nama produk, harga sewa per hari
 
