@@ -147,4 +147,6 @@ Jika user menginputkan 'n' maka proses sewa akan dibatalkan dan akan ditanyakan 
 
 ![Screenshot 2024-11-08 080938](https://github.com/user-attachments/assets/eaaea2a9-2569-4106-b967-37c1ec6d783a)
 
+Admin menginputkan 'y' untuk menghapus produk dan tampilan tabel diperbarui. setelah proses menghapus produk akan ditanyakan kembali jika ingin menghapus produk lagi
+
 
