@@ -8,6 +8,26 @@ Kelas: Sistem Informasi A 2024
 
 # Flowchart
 
+**Page 1**
+
+![image](https://github.com/user-attachments/assets/5d198734-9f08-4d76-9580-d3d08bf01dec)
+
+**Page 2**
+
+![image](https://github.com/user-attachments/assets/65b020f2-c7e1-4b1f-9f49-1d807b4f34e5)
+
+**Sewa Produk**
+
+![image](https://github.com/user-attachments/assets/7597ba92-2112-438f-a221-2da9ee9b32df)
+
+**Kembalikan Produk**
+
+![image](https://github.com/user-attachments/assets/4ce2a341-6bca-4aa0-93c5-7c28f6141bef)
+
+**Page 3**
+
+![image](https://github.com/user-attachments/assets/10523f21-ddac-40a4-b402-a814e731ac5c)
+
 
 # Menu Utama
 
