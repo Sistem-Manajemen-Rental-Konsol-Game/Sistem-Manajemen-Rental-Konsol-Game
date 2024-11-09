@@ -322,6 +322,8 @@ user dapat menolak dan kembali ke menu utama dengan menginpukan 'n'
 
 # <sub>Penjelasan Opsi Cek Game yang disewa</sub>
 
+User memilih opsi 4 untuk mengecek apakah user memiliki produk yang disewa.
+
 **Produk ada**
 
 ![Screenshot 2024-11-09 201353](https://github.com/user-attachments/assets/8093c506-8816-414b-913e-96b0ae0cd71f)
