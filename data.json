@@ -1,0 +1,48 @@
+{
+    "admin": [
+        {
+            "username": "jen",
+            "pw": "jen333"
+        }
+    ],
+    "user": [
+        {
+            "username": "aya",
+            "pw": "aya123",
+            "saldo": 999999999 
+        }
+    ],
+    "produk": [
+        {
+            "nomor": 1,
+            "nama": "Xbox Series X",
+            "harga": 150000,
+            "status barang": "tersedia"
+        },
+        {
+            "nomor": 2,
+            "nama": "Xbox Series S",
+            "harga": 120000,
+            "status barang": "tersedia"
+        },
+        {
+            "nomor": 3,
+            "nama": "Nintendo Switch",
+            "harga": 130000,
+            "status barang": "tersedia"
+        },
+        {
+            "nomor": 4,
+            "nama": "PlayStation 4 (PS4)",
+            "harga": 100000,
+            "status barang": "tersedia"
+        },
+        {
+            "nomor": 5,
+            "nama": "PlayStation 5 (PS5)",
+            "harga": 180000,
+            "status barang": "tersedia"
+        }
+    ],
+    "transaksi": []
+}
