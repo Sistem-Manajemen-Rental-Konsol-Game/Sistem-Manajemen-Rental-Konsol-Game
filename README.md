@@ -6,6 +6,9 @@
 3. Dhita Olivia R. K (2409116040)
 Kelas: Sistem Informasi A 2024
 
+# Flowchart
+
+
 # Menu Utama
 
 ![Screenshot 2024-11-07 144034](https://github.com/user-attachments/assets/2b78250b-e53f-4c32-ab2c-2ab8456d2d92)
@@ -85,9 +88,9 @@ Jika admin menginputkan angka 5, maka akan kembali pada menu utama
 
 # <sub>Penjelasan Opsi Create</sub>
 
-![Screenshot 2024-11-07 153911](https://github.com/user-attachments/assets/25be5793-75e7-4b31-804d-6fc562c98c84)
+![Screenshot 2024-11-09 223748](https://github.com/user-attachments/assets/bd70fa86-c4f4-49ec-884f-fecd52b37d8d)
 
-Opsi angka 1 yaitu _create_ akan menampilkan tabel produk dan admin menginputkan nama produk, harga sewa per hari, dan ketersedian produk dengan menginput 'tersedia' atau 'tidak tersedia'.
+Opsi angka 1 yaitu _create_ akan menampilkan tabel produk dan admin menginputkan nama produk, harga sewa per hari, dan ketersedian produk dengan menginput 1 untuk 'tersedia' atau 2 untuk 'tidak tersedia'.
 
 ![Screenshot 2024-11-07 154001](https://github.com/user-attachments/assets/73b74cac-4548-488b-8b9f-229c42b5b669)
 
